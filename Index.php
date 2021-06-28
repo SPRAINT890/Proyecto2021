@@ -9,8 +9,7 @@
 <body>
     <?php
         include('templateLogin.php');
-        include('templateRegistro.php');
-        include('templateNav.php');
+        include('templateRegister.php');
     ?>
 </body>
 </html>
