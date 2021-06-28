@@ -1,5 +1,3 @@
-<!-- Template que se va a reutilizar para las aplicaciones de registro -->
-
 <label for="Name">Nombre</label>
 <input name="Name" type="text" require>
 
@@ -13,7 +11,7 @@
 <input name="ScndLastName" type="text">
 
 <label for="Ci">Cedula</label>
-<input name="Ci" type="number" placeholder="53636064" require>
+<input name="Ci" type="number" placeholder="" require>
 
 <label for="Email">Correo</label>
 <input name="Email" type="email" require>
@@ -22,4 +20,4 @@
 <input name="Passwd" type="password" require>
 
 <label for="VerfPasswd">Confirmar Contraseña</label>
-<input name="VerfPasswd" type="Passwd" require>
+<input name="VerfPasswd" type="password" require>
