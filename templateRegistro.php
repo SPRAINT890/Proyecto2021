@@ -1,3 +1,5 @@
+<!-- Template que se va a reutilizar para las aplicaciones de registro -->
+
 <label for="Name">Nombre</label>
 <input name="Name" type="text" require>
 
