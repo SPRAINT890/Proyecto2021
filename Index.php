@@ -7,6 +7,10 @@
     <title>Chat Online</title>
 </head>
 <body>
-    <h1>chat</h1>
+    <?php
+        include('templateLogin.php');
+        include('templateRegistro.php');
+        include('templateNav.php');
+    ?>
 </body>
 </html>
