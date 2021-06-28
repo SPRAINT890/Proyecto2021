@@ -22,4 +22,4 @@
 <input name="Passwd" type="password" require>
 
 <label for="VerfPasswd">Confirmar Contraseña</label>
-<input name="VerfPasswd" type="button" require>
+<input name="VerfPasswd" type="Passwd" require>
