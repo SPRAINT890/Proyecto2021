@@ -10,6 +10,7 @@
     <?php
         include('templateLogin.php');
         include('templateRegister.php');
+        include('templateNav.php');
     ?>
 </body>
 </html>
